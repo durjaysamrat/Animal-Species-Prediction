@@ -53,14 +53,3 @@ This project demonstrates the potential of deep learning frameworks like YOLOv5 
 
 ## Display
 The detected image is displayed
-### Predictions
-> Image
-
-
-![Photo](https://github.com/sohampathak1234/Animal-Species-Prediction/blob/main/Images/pred_cattle.jpg)
-
-
-> Video
-
-
-![Prediction Video](https://github.com/sohampathak1234/Animal-Species-Prediction/blob/main/Video/Elephant_pred.mp4)
