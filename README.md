@@ -1,16 +1,16 @@
-# Animal-Species-Prediction
-Code Clause Internship Project 2  
+Sure! Here's a revised version of your README file for the Animal-Species-Prediction repository:
 
+---
+
+# Animal-Species-Prediction
+
+## Overview
 This project uses the YOLOv5 deep learning framework for object detection and classification to develop a system for identifying animal species in real-world images. The project involves collecting and labeling image datasets, training the YOLOv5 model, and integrating the model with a user interface for ease of use.
 
+https://github.com/user-attachments/assets/31e7dcb6-65be-4801-ae7c-284e5de3778b
+
 ## Dataset
-https://drive.google.com/drive/folders/1xBHb2l4Z70Z-oPXHR3QvZF3iaYZnSGx-?usp=sharing
-
-## Preparing the Data
-
-The data preparation process for this project involved collecting image datasets of different animal species and labeling the images with bounding boxes around the animals. This labeling process is necessary for training the YOLOv5 model to accurately detect and classify animal species.
-
-Various classes are collected
+The dataset used for this project can be found [here](https://drive.google.com/drive/folders/1xBHb2l4Z70Z-oPXHR3QvZF3iaYZnSGx-?usp=sharing). It includes images of various animal species such as:
 - Tiger
 - Giraffe
 - Bear
@@ -20,30 +20,30 @@ Various classes are collected
 - Wolf
 - Bull
 - Monkey
-- Leopord
+- Leopard
 - Rhinoceros
 - Hippo
 - Cattle
-The collected data was labelled
 
-### Spliting the Data
-The data is split into train and validation which is of the ratio 80:20
-The prepared dataset is uploaded into the drive
+![pred_cattle](https://github.com/user-attachments/assets/ac37308f-db56-4006-a84a-84c7a566ff71)
 
-### Cloning of Yolov5 and installing requirements
-The yolov5 github repo was cloned into google colab
-The data is mounted onto the google drive
-The dataset is unzipped for further accessing
-All the requirements for yolov5 are installed
+![pred_monkey](https://github.com/user-attachments/assets/87c1a867-3e6b-4fe6-873c-50a5f7d0245e)
 
-### Data training and Validation
-Mark the given config files as required
-the training of model is done with image size 415, batch size - 31, epochs -100
-Weights of yolov5s is given
+## Data Preparation
+The data preparation process involved collecting image datasets of different animal species and labeling the images with bounding boxes around the animals. This labeling process is necessary for training the YOLOv5 model to accurately detect and classify animal species.
+
+## Data Splitting
+The data is split into training and validation sets in an 80:20 ratio. The prepared dataset is uploaded to Google Drive for easy access.
+
+## Model Training
+The YOLOv5 model is trained using the following parameters:
+- Image size: 415
+- Batch size: 31
+- Epochs: 100
+- Weights: yolov5s
 
 ## Inference
-The inference files are uploaded (video, images)
-The inference with the weights of best.pt is done
+Inference is performed using the trained model weights (`best.pt`). The system can detect multiple animal species in the same image and outputs the predicted animal species with corresponding bounding boxes.
 
 ## Results
 The final animal species detection system accurately identifies animal species in real-world images with a high degree of accuracy. The system can detect multiple animal species in the same image and outputs the predicted animal species with corresponding bounding boxes.
@@ -52,4 +52,4 @@ The final animal species detection system accurately identifies animal species i
 This project demonstrates the potential of deep learning frameworks like YOLOv5 for object detection and classification in the field of animal species detection. The system developed in this project has practical applications in wildlife conservation, animal behavior studies, and more. The project can be extended to include more animal species and to improve the accuracy and efficiency of the detection system.
 
 ## Display
-The detected image is displayed
+The detected images are displayed with bounding boxes around the identified animal species.
