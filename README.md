@@ -66,7 +66,7 @@ The model uses trained weights (`best.pt`) to detect multiple animal species in 
 ## 🎥 Output Video  
 
 ### 🎬 Prediction Video: Elephant Detection  
-[![Elephant Prediction Video](https://img.shields.io/badge/Watch%20Prediction%20Video-blue?style=for-the-badge&logo=youtube)](https://github.com/durjaysamrat/Animal-Species-Prediction/blob/main/Output%20Videos/Elephant_pred.mp4)  
+[![Elephant Prediction Video](https://github.com/user-attachments/assets/31e7dcb6-65be-4801-ae7c-284e5de3778b)  
 
 ---
 
@@ -82,8 +82,7 @@ Detected images include bounding boxes with labels:
 
 - **Input Image:** Wildlife photograph  
 - **Output:** Annotated image with detected species  
-![Example Display](https://github.com/user-attachments/assets/31e7dcb6-65be-4801-ae7c-284e5de3778b)  
-
+![pred_elephant](https://github.com/user-attachments/assets/aaf3398c-4309-49a7-90c8-ed9d96dcdcff)
 ---
 
 ## 🐾 Conclusion  
