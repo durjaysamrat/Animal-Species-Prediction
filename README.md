@@ -75,8 +75,7 @@ Detected images include bounding boxes with labels:
 
 - **Input Image:** Wildlife photograph  
 - **Output:** Annotated image with detected species  
-Uploading 394562755-31e7dcb6-65be-4801-ae7c-284e5de3778b.mp4…
-
+https://github.com/user-attachments/assets/7ab7e368-615b-46d8-8d93-f6a66a275991
 
 ---
 
@@ -103,8 +102,7 @@ Contributions are welcome! 🎉
 
 ## 📫 Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/durjay-samrat)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/durjaysamrat)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/durjay-samrat) [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/durjaysamrat)  
 
 ---
 
@@ -112,5 +110,3 @@ Contributions are welcome! 🎉
 Let’s build smarter tools for wildlife conservation together! 🌍🐾  
 
 ---
-
-Let me know if you'd like to make further adjustments or add more details. 😊
