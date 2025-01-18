@@ -36,11 +36,9 @@ The dataset includes images of 12 different animal species, such as:
 [**Dataset Link**](https://drive.google.com/drive/folders/1xBHb2l4Z70Z-oPXHR3QvZF3iaYZnSGx-?usp=sharing)  
 
 **Example Predictions:**  
-![pred_elephant](https://github.com/user-attachments/assets/aaf3398c-4309-49a7-90c8-ed9d96dcdcff)
-| **Cattle** | **Monkey** |  
-|-------------|------------|  
-
-| ![pred_cattle](https://github.com/user-attachments/assets/ac37308f-db56-4006-a84a-84c7a566ff71) | ![pred_monkey](https://github.com/user-attachments/assets/87c1a867-3e6b-4fe6-873c-50a5f7d0245e) |  
+| **Elephant** | **Cattle** | **Monkey** | 
+|-------------|------------|------------|  
+|![pred_elephant](https://github.com/user-attachments/assets/aaf3398c-4309-49a7-90c8-ed9d96dcdcff)| ![pred_cattle](https://github.com/user-attachments/assets/ac37308f-db56-4006-a84a-84c7a566ff71) | ![pred_monkey](https://github.com/user-attachments/assets/87c1a867-3e6b-4fe6-873c-50a5f7d0245e) |  
 
 ---
 
@@ -77,7 +75,8 @@ Detected images include bounding boxes with labels:
 
 - **Input Image:** Wildlife photograph  
 - **Output:** Annotated image with detected species  
-https://github.com/user-attachments/assets/31e7dcb6-65be-4801-ae7c-284e5de3778b
+Uploading 394562755-31e7dcb6-65be-4801-ae7c-284e5de3778b.mp4…
+
 
 ---
 
