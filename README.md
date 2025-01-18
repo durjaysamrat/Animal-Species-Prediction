@@ -36,6 +36,7 @@ The dataset includes images of 12 different animal species, such as:
 [**Dataset Link**](https://drive.google.com/drive/folders/1xBHb2l4Z70Z-oPXHR3QvZF3iaYZnSGx-?usp=sharing)  
 
 **Example Predictions:**  
+https://github.com/durjaysamrat/Animal-Species-Prediction/blob/main/Output%20Videos/Elephant_pred.mp4
 
 | **Cattle** | **Monkey** |  
 |-------------|------------|  
@@ -77,7 +78,7 @@ Detected images include bounding boxes with labels:
 - **Input Image:** Wildlife photograph  
 - **Output:** Annotated image with detected species  
 
-![Example Display](https://github.com/user-attachments/assets/31e7dcb6-65be-4801-ae7c-284e5de3778b)  
+[![Example Display](https://github.com/user-attachments/assets/31e7dcb6-65be-4801-ae7c-284e5de3778b)  ](https://github.com/durjaysamrat/Animal-Species-Prediction/blob/main/Output%20Videos/Elephant_pred.mp4)
 
 ---
 
