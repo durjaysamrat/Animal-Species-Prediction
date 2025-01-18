@@ -66,10 +66,10 @@ The model uses trained weights (`best.pt`) to detect multiple animal species in 
 ## 🎥 Output Video  
 
 ### 🎬 Prediction Video: Elephant Detection  
-![Elephant Prediction Video]([https://github.com/user-attachments/assets/31e7dcb6-65be-4801-ae7c-284e5de3778b](https://github.com/user-attachments/assets/31e7dcb6-65be-4801-ae7c-284e5de3778b))  
+
+https://github.com/user-attachments/assets/37dfc9aa-3c2a-4e16-b01a-562f1381675d
 
 ---
-
 ## 🎯 Results  
 
 The system achieved **high accuracy** in detecting and classifying animal species in real-world images. The predictions include bounding boxes and species labels for each detected animal, supporting multiple detections in a single image.  
