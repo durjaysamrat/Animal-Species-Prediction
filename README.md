@@ -66,7 +66,8 @@ The model uses trained weights (`best.pt`) to detect multiple animal species in 
 ## 🎥 Output Video  
 
 ### 🎬 Prediction Video: Elephant Detection  
-[![Elephant Prediction Video](https://github.com/user-attachments/assets/31e7dcb6-65be-4801-ae7c-284e5de3778b)  
+![Elephant_pred]([https://github.com/user-attachments/assets/7ab7e368-615b-46d8-8d93-f6a66a275991](https://github.com/durjaysamrat/Animal-Species-Prediction/blob/main/Output%20Videos/Elephant_pred.mp4))
+![Elephant Prediction Video](https://github.com/user-attachments/assets/31e7dcb6-65be-4801-ae7c-284e5de3778b)  
 
 ---
 
