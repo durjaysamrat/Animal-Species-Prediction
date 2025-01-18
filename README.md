@@ -75,7 +75,7 @@ Detected images include bounding boxes with labels:
 
 - **Input Image:** Wildlife photograph  
 - **Output:** Annotated image with detected species  
-![394562755-31e7dcb6-65be-4801-ae7c-284e5de3778b](https://github.com/user-attachments/assets/7ab7e368-615b-46d8-8d93-f6a66a275991)
+![Elephant_pred]([https://github.com/user-attachments/assets/7ab7e368-615b-46d8-8d93-f6a66a275991](https://github.com/durjaysamrat/Animal-Species-Prediction/blob/main/Output%20Videos/Elephant_pred.mp4))
 
 ---
 
