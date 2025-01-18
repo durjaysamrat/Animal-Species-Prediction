@@ -82,9 +82,7 @@ Detected images include bounding boxes with labels:
 
 - **Input Image:** Wildlife photograph  
 - **Output:** Annotated image with detected species  
-<video src="https://github.com/durjaysamrat/Animal-Species-Prediction/blob/main/Output%20Videos/Elephant_pred.mp4" autoplay loop controls>
-Your browser does not support the video tag.
-</video>
+  ![Video](https://github.com/durjaysamrat/Animal-Species-Prediction/blob/main/Output%20Videos/Elephant_pred.mp4)
 ![Example Display](https://github.com/user-attachments/assets/31e7dcb6-65be-4801-ae7c-284e5de3778b)  
 
 ---
