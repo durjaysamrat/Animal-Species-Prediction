@@ -63,6 +63,13 @@ The model uses trained weights (`best.pt`) to detect multiple animal species in 
 
 ---
 
+## 🎥 Output Video  
+
+### 🎬 Prediction Video: Elephant Detection  
+[![Elephant Prediction Video](https://img.shields.io/badge/Watch%20Prediction%20Video-blue?style=for-the-badge&logo=youtube)](https://github.com/durjaysamrat/Animal-Species-Prediction/blob/main/Output%20Videos/Elephant_pred.mp4)  
+
+---
+
 ## 🎯 Results  
 
 The system achieved **high accuracy** in detecting and classifying animal species in real-world images. The predictions include bounding boxes and species labels for each detected animal, supporting multiple detections in a single image.  
@@ -75,7 +82,8 @@ Detected images include bounding boxes with labels:
 
 - **Input Image:** Wildlife photograph  
 - **Output:** Annotated image with detected species  
-![Elephant_pred]([https://github.com/user-attachments/assets/7ab7e368-615b-46d8-8d93-f6a66a275991](https://github.com/durjaysamrat/Animal-Species-Prediction/blob/main/Output%20Videos/Elephant_pred.mp4))
+
+![Example Display](https://github.com/user-attachments/assets/31e7dcb6-65be-4801-ae7c-284e5de3778b)  
 
 ---
 
@@ -102,7 +110,8 @@ Contributions are welcome! 🎉
 
 ## 📫 Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/durjay-samrat) [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/durjaysamrat)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/durjay-samrat)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/durjaysamrat)  
 
 ---
 
